@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "A portfolio static site built with Express & Pug",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobtmurph/portfolio-site.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "static"
+  ],
+  "author": "Jacob T. Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobtmurph/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/jacobtmurph/portfolio-site#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}

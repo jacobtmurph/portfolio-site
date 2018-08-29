@@ -1,0 +1,57 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A single-page quotes website with dynamicly changing content and background.",
+            "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
+            "live_link": "https://jacobtmurph.github.io/Random-Quote-Generator/",
+            "github_link": "https://github.com/jacobtmurph/Random-Quote-Generator/",
+            "image_urls": ["../public/img/0/education-main.png", "../public/img/0/education.png", 
+                           "../public/img/0/justice.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Dynamic Pagination & Search",
+            "description": 
+            "A front-end student directory with dynamic pagination & search based on the amount of content.",
+            "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
+            "live_link": "https://jacobtmurph.github.io/Pagination-and-Search/",
+            "github_link": "https://github.com/jacobtmurph/Pagination-and-Search/",
+            "image_urls": ["../public/img/1/1-1-main.png", "../public/img/1/1-1.png", "../public/img/1/1-2.png",
+                           "../public/img/1/4.png", "../public/img/1/search.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Form Validation",
+            "description": 
+            "A registration form for an example conference with content-responsive validation.",
+            "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
+            "live_link": "https://jacobtmurph.github.io/Validation-Dev/",
+            "github_link": "https://github.com/jacobtmurph/Validation-Dev/",
+            "image_urls": ["../public/img/2/empty-main.png", "../public/img/2/empty.png",
+                           "../public/img/2/wrong.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A fun little tic-tac-toe game for two players.",
+            "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
+            "live_link": "https://jacobtmurph.github.io/Tic-Tac-Toe/",
+            "github_link": "https://github.com/jacobtmurph/Tic-Tac-Toe/",
+            "image_urls": ["../public/img/3/game-main.png", "../public/img/3/game.png",
+                           "../public/img/3/win.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory",
+            "description": 
+            "An employee directory with dynamic content based on an api call via https://randomuser.me/",
+            "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
+            "live_link": "https://jacobtmurph.github.io/employee-directory/",
+            "github_link": "https://github.com/jacobtmurph/employee-directory/",
+            "image_urls": ["../public/img/4/dir-main.png", "../public/img/4/dir.png",
+                           "../public/img/4/info.png"]
+        }
+    ]
+}
