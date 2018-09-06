@@ -7,8 +7,8 @@
             "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
             "live_link": "https://jacobtmurph.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/jacobtmurph/Random-Quote-Generator/",
-            "image_urls": ["../public/img/0/education-main.png", "../public/img/0/education.png", 
-                           "../public/img/0/justice.png"]
+            "image_urls": ["../static/img/0/education-main.png", "../static/img/0/education.png", 
+                           "../static/img/0/justice.png"]
         },
         {
             "id": 1,
@@ -18,8 +18,8 @@
             "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
             "live_link": "https://jacobtmurph.github.io/Pagination-and-Search/",
             "github_link": "https://github.com/jacobtmurph/Pagination-and-Search/",
-            "image_urls": ["../public/img/1/1-1-main.png", "../public/img/1/1-1.png", "../public/img/1/1-2.png",
-                           "../public/img/1/4.png", "../public/img/1/search.png"]
+            "image_urls": ["../static/img/1/1-1-main.png", "../static/img/1/1-1.png", "../static/img/1/1-2.png",
+                           "../static/img/1/4.png", "../static/img/1/search.png"]
         },
         {
             "id": 2,
@@ -29,8 +29,8 @@
             "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
             "live_link": "https://jacobtmurph.github.io/Validation-Dev/",
             "github_link": "https://github.com/jacobtmurph/Validation-Dev/",
-            "image_urls": ["../public/img/2/empty-main.png", "../public/img/2/empty.png",
-                           "../public/img/2/wrong.png"]
+            "image_urls": ["../static/img/2/empty-main.png", "../static/img/2/empty.png",
+                           "../static/img/2/wrong.png"]
         },
         {
             "id": 3,
@@ -39,8 +39,8 @@
             "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
             "live_link": "https://jacobtmurph.github.io/Tic-Tac-Toe/",
             "github_link": "https://github.com/jacobtmurph/Tic-Tac-Toe/",
-            "image_urls": ["../public/img/3/game-main.png", "../public/img/3/game.png",
-                           "../public/img/3/win.png"]
+            "image_urls": ["../static/img/3/game-main.png", "../static/img/3/game.png",
+                           "../static/img/3/win.png"]
         },
         {
             "id": 4,
@@ -50,8 +50,8 @@
             "technologies": ["HTML", "CSS", "JavaScript (Cleint-Side)"],
             "live_link": "https://jacobtmurph.github.io/employee-directory/",
             "github_link": "https://github.com/jacobtmurph/employee-directory/",
-            "image_urls": ["../public/img/4/dir-main.png", "../public/img/4/dir.png",
-                           "../public/img/4/info.png"]
+            "image_urls": ["../static/img/4/dir-main.png", "../static/img/4/dir.png",
+                           "../static/img/4/info.png"]
         }
     ]
 }
