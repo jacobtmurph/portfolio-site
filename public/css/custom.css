@@ -1,0 +1,16 @@
+#my-info {
+    background-color: burlywood;
+    color: black;
+}
+
+#my-info .text-light, #my-info a {
+    color: black;
+}
+
+article h1 {
+    color: burlywood;
+}
+
+.lead {
+    font-family: 'Nanum Gothtic', Helvetica;
+}
